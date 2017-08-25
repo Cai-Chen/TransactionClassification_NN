@@ -1,0 +1,228 @@
+[
+  {
+    "category": "Charitable Giving",
+    "tags": []
+  },
+  {
+    "category": "Gifts",
+    "tags": []
+  },
+  {
+    "category": "Automotive",
+    "tags": [
+      "PARKING",
+      "Car park"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "tags": [
+      "Medicine",
+      "Ultrasound",
+      "Health",
+      "Clinic",
+      "Pharmacy",
+      "Chemist"
+    ]
+  },
+  {
+    "category": "Insurance",
+    "tags": [
+      "BUPA",
+      "INSURANCE",
+      "RACV"
+    ]
+  },
+  {
+    "category": "Office Expenses",
+    "tags": [
+      "Officeworks"
+    ]
+  },
+  {
+    "category": "Services",
+    "tags": [
+      "Service",
+      "Airtasker",
+      "Amazon web services",
+      "CommBank",
+      "NAB",
+      "Bank",
+      "Paypal",
+      "PLINE",
+      "Payment",
+      "ENTRPRISE",
+      "ENTRPRISES",
+      "Zeee",
+      "COUNCIL",
+      "Nail",
+      "Warringah Plastics",
+      "Victrack",
+      "Mobile",
+      "Hair",
+      "SHU YAO",
+      "Atlassian"
+    ]
+  },
+  {
+    "category": "Postage",
+    "tags": [
+      "POST"
+    ]
+  },
+  {
+    "category": "Taxes",
+    "tags": []
+  },
+  {
+    "category": "Home Improvement",
+    "tags": []
+  },
+  {
+    "category": "Electronics",
+    "tags": [
+      "BATTERY WORLD",
+      "Vaya",
+      "JB Hi-Fi"
+    ]
+  },
+  {
+    "category": "Groceries",
+    "tags": [
+      "ALDI",
+      "Coles",
+      "IGA",
+      "San Churro",
+      "YOCHI3",
+      "Yo-Chi",
+      "Yo-Art",
+      "Grocery",
+      "Woolworths",
+      "Bakery",
+      "Starbucks",
+      "Store",
+      "LIQUORLAND",
+      "7-ELEVEN"
+    ]
+  },
+  {
+    "category": "Pets",
+    "tags": []
+  },
+  {
+    "category": "Mortgage",
+    "tags": []
+  },
+  {
+    "category": "Rent",
+    "tags": [
+      "RENT"
+    ]
+  },
+  {
+    "category": "Utilities",
+    "tags": [
+      "GLOBIRD ENERGY",
+      "ORIGIN ENERGY",
+      "Water",
+      "Energy",
+      "TPG",
+      "Telstra",
+      "Optus"
+    ]
+  },
+  {
+    "category": "ATM",
+    "tags": [
+      "NABATM"
+    ]
+  },
+  {
+    "category": "Education",
+    "tags": [
+      "University"
+    ]
+  },
+  {
+    "category": "Restaurant",
+    "tags": [
+      "Restaurant",
+      "Din Tai Fung",
+      "Father's Office",
+      "Food Stories Chinese Canteen",
+      "Huxtaburger",
+      "MCDONALDS",
+      "Meatmother",
+      "Zushi Bento",
+      "Zouki",
+      "Food",
+      "Zaatar",
+      "Yarra Ranges Estate",
+      "Dine",
+      "Woogi",
+      "cafe",
+      "coffee",
+      "Pie",
+      "Sushi",
+      "Spicy Fish",
+      "Soul Origin",
+      "Sally's Kitchen",
+      "Red Rooster",
+      "Odyssea",
+      "North Carlton Canteen",
+      "Nando's",
+      "McDonald's",
+      "Hungry Jack's",
+      "Captain Grey"
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "tags": [
+      "TATTS",
+      "LOUNGE",
+      "Golf",
+      "Cinema",
+      "Triple H FM",
+      "Pub",
+      "Ticketmaster",
+      "Stan.",
+      "Spotify",
+      "ITUNES MUSIC STORE",
+      "Fitness"
+    ]
+  },
+  {
+    "category": "Transport",
+    "tags": [
+      "PTV",
+      "VIRGIN",
+      "Vicroads",
+      "Uber",
+      "Transport",
+      "Express",
+      "Hotel",
+      "Motel",
+      "Skybus",
+      "Taxi",
+      "Recreation",
+      "Rebel Sport",
+      "Jetstar",
+      "AIRBNB"
+    ]
+  },
+  {
+    "category": "Shopping",
+    "tags": [
+      "ZOMP",
+      "Zara",
+      "Witchery",
+      "Shopping",
+      "Sportscraft",
+      "David Jones",
+      "KMART",
+      "BUNNINGS",
+      "Big W"
+    ]
+  }
+]
