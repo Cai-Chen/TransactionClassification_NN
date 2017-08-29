@@ -1,4 +1,4 @@
-# TransactionClassification Based on NN
+# TransactionClassification Based on NN built by TensorFlow
 
 1. Build words vocabulary list based on the training and testing data
 2. Transform the description of the transaction into vetor
