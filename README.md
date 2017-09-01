@@ -1,4 +1,4 @@
-# TransactionClassification Based on NN built by TensorFlow
+# Transaction Classification Based on NN built by TensorFlow
 
 1. Build words vocabulary list based on the training and testing data
 2. Transform the description of the transaction into vetor
@@ -8,4 +8,6 @@
 6. Use the testing data in test.json to predict the category
 
 # How to execute
-python classify.py
+1. python restService.py Start the server
+2. Send GET request
+   For example : localhost:5000/title/Better Pharmacy
