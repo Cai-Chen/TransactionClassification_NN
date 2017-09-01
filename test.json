@@ -1,16 +1,1 @@
-[
-  {
-    "owner": 26,
-    "amount": -17.26,
-    "id": 1961530,
-    "emoji": "",
-    "title": "woolworths",
-    "logo": "",
-    "address": "{\"latitude\":\"-33.858716937257284\",\"longitude\":\"151.20741824562634\",\"address\":\"96 Cumberland St\",\"country\":\"AU\",\"suburb\":\"The Rocks\"}",
-    "currency": "AUD",
-    "transaction_id": "4507229",
-    "date_created": "2017-07-31 05:30:49.551635+10",
-    "roundup": 0.74,
-    "merchant_id": 2524
-  }
-]
+[{"title": "PTV"}]
