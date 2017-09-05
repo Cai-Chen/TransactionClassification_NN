@@ -9,5 +9,7 @@
 
 # How to execute
 1. python restService.py Start the server
-2. Send GET request
-   For example : localhost:5000/title/Better Pharmacy
+2. Query the category:
+   POST request to localhost:5000/getCategory with JSON data like {"title":"PTV"}
+   Input new training data:
+   POST request to localhost:5000/inputCategory with JSON data like {"title":"PTV", "category":"Transport"}
