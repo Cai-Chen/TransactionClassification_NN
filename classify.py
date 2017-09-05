@@ -6,7 +6,7 @@ import os
 # Log level
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
-def main(description):
+def main(testData):
     # parameters
     learning_rate = 0.01
     training_epochs = 56
@@ -24,7 +24,7 @@ def main(description):
     # Vocabulary list
     # Create a json file containing the description
     with open('./test.json', 'w', encoding='utf-8') as dump_f:
-        json.dump([{'title' : description}], dump_f)
+        json.dump([{'title' : testData}], dump_f)
 
     vocabDir = ['./txn-data_modified.json', './test.json']
     input_data = inputData.InputData('./txn-data_modified.json', './test.json', vocabDir, './category.json')
