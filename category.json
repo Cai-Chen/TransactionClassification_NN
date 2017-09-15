@@ -1,18 +1,21 @@
 [
   {
     "category": "Charitable Giving",
-    "tags": []
+    "tags": [],
+    "emoji" : "😁"
   },
   {
     "category": "Gifts",
-    "tags": []
+    "tags": [],
+    "emoji" : "🎁"
   },
   {
     "category": "Automotive",
     "tags": [
       "PARKING",
       "Car park"
-    ]
+    ],
+    "emoji" : "🚓"
   },
   {
     "category": "Healthcare",
@@ -23,7 +26,8 @@
       "Clinic",
       "Pharmacy",
       "Chemist"
-    ]
+    ],
+    "emoji" : "🏥"
   },
   {
     "category": "Insurance",
@@ -31,13 +35,15 @@
       "BUPA",
       "INSURANCE",
       "RACV"
-    ]
+    ],
+    "emoji" : "❤️"
   },
   {
     "category": "Office Expenses",
     "tags": [
       "Officeworks"
-    ]
+    ],
+    "emoji" : "🏢"
   },
   {
     "category": "Services",
@@ -62,21 +68,25 @@
       "Hair",
       "SHU YAO",
       "Atlassian"
-    ]
+    ],
+    "emoji" : "🏦"
   },
   {
     "category": "Postage",
     "tags": [
       "POST"
-    ]
+    ],
+    "emoji" : "📮"
   },
   {
     "category": "Taxes",
-    "tags": []
+    "tags": [],
+    "emoji" : "💸"
   },
   {
     "category": "Home Improvement",
-    "tags": []
+    "tags": [],
+    "emoji" : "🏠"
   },
   {
     "category": "Electronics",
@@ -84,7 +94,8 @@
       "BATTERY WORLD",
       "Vaya",
       "JB Hi-Fi"
-    ]
+    ],
+    "emoji" : "💻"
   },
   {
     "category": "Groceries",
@@ -103,21 +114,25 @@
       "Store",
       "LIQUORLAND",
       "7-ELEVEN"
-    ]
+    ],
+    "emoji" : "🍞"
   },
   {
     "category": "Pets",
-    "tags": []
+    "tags": [],
+    "emoji" : "🐶"
   },
   {
     "category": "Mortgage",
-    "tags": []
+    "tags": [],
+    "emoji" : "💰"
   },
   {
     "category": "Rent",
     "tags": [
       "RENT"
-    ]
+    ],
+    "emoji" : "💵"
   },
   {
     "category": "Utilities",
@@ -129,19 +144,22 @@
       "TPG",
       "Telstra",
       "Optus"
-    ]
+    ],
+    "emoji" : "🔌"
   },
   {
     "category": "ATM",
     "tags": [
       "NABATM"
-    ]
+    ],
+    "emoji" : "🏦"
   },
   {
     "category": "Education",
     "tags": [
       "University"
-    ]
+    ],
+    "emoji" : "🏫"
   },
   {
     "category": "Restaurant",
@@ -174,7 +192,8 @@
       "McDonald's",
       "Hungry Jack's",
       "Captain Grey"
-    ]
+    ],
+    "emoji" : "🍜"
   },
   {
     "category": "Entertainment",
@@ -190,7 +209,8 @@
       "Spotify",
       "ITUNES MUSIC STORE",
       "Fitness"
-    ]
+    ],
+    "emoji" : "👨‍🎤"
   },
   {
     "category": "Transport",
@@ -210,7 +230,8 @@
       "Rebel Sport",
       "Jetstar",
       "AIRBNB"
-    ]
+    ],
+    "emoji" : "🚌"
   },
   {
     "category": "Shopping",
@@ -224,6 +245,7 @@
       "KMART",
       "BUNNINGS",
       "Big W"
-    ]
+    ],
+    "emoji" : "🏬"
   }
 ]

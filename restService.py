@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, abort, make_response, request
 import tensorflow as tf
 import classify
+import getEmoji
 import json
 
 app = Flask(__name__)
@@ -14,7 +15,7 @@ def get_category():
     if not request.json or not 'title' in request.json:
         abort(400)
     category = classify.main(request.json['title'])
-    return jsonify({'category' : category}), 201
+    return jsonify({'category' : category, "emoji" : getEmoji.getEmoji(category, request.json['title'])}), 201
 
 @app.route('/inputCategory', methods=['POST'])
 def input_category():
