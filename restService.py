@@ -22,10 +22,10 @@ def input_category():
     if not request.json or not 'title' in request.json or not 'category' in request.json:
         abort(400)
     # Add new data to training set
-    with open('./txn-data_modified.json', 'r', encoding='utf-8') as load_f:
+    with open('./trainingData.json', 'r', encoding='utf-8') as load_f:
         load_json = json.load(load_f)
         load_json.append({"title" : request.json['title'], "category" : request.json['category']})
-    with open('./txn-data_modified.json', 'w', encoding='utf-8') as dump_f:
+    with open('./trainingData.json', 'w', encoding='utf-8') as dump_f:
         json.dump(load_json, dump_f)
     return jsonify({'response' : 'updated'}), 201
 

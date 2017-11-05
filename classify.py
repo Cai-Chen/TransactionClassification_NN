@@ -26,8 +26,8 @@ def main(testData):
     with open('./test.json', 'w', encoding='utf-8') as dump_f:
         json.dump([{'title' : testData}], dump_f)
 
-    vocabDir = ['./txn-data_modified.json', './test.json']
-    input_data = inputData.InputData('./txn-data_modified.json', './test.json', vocabDir, './category.json')
+    vocabDir = ['./trainingData.json', './test.json']
+    input_data = inputData.InputData('./trainingData.json', './test.json', vocabDir, './category.json')
     input_data.getTrainDataAndLabel()
 
     n_input = len(input_data.vocab.vocab)  # Words in vocab

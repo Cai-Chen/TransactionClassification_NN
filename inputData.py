@@ -88,8 +88,3 @@ class InputData(object):
             with open('./test.txt', 'a', encoding='utf-8') as dump_f:
                 # json.dump(self.trainingData, dump_f)
                 dump_f.write(str(self.get_batch(100)))
-
-# if __name__ == '__main__':
-#     trainData = TrainData()
-#     trainData.getTrainDataAndLabel('./txn-data_modified.json', './txn-data_modified.json', './category.json')
-#     trainData.storeData()
